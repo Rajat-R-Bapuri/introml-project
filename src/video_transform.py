@@ -166,7 +166,7 @@ def main(args):
 
         # Display the resulting frame
         #cv2.imshow('transformed video',new_image)
-        cv2.waitKey(5)
+        cv2.waitKey(4)
 
 
 
