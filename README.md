@@ -60,10 +60,10 @@ Rendering the semantic content of an image in different styles is a difficult im
     </a>
    </div>
  
- <p>Style Output without Textute and Style and Texture Output Image</p>
+ <p>Style Output without Texture and Style and Texture Output Image</p>
    <div display="inline-block">
-    <a href="/images/generated/tandon_wavercrop_output.png"> 
-      <img src="/images/generated/tandon_wavercrop_output.png" height="246px" width="250px"">
+    <a href="/results/Texture_transform/tandon_wavercrop_output.png"> 
+      <img src="/results/Texture_transform/tandon_wavercrop_output.png" height="246px" width="250px"">
     </a>
     <a href="/results/Texture_transform/tandon_texture_wave_crop_output.png"> 
       <img src="/results/Texture_transform/tandon_texture_wave_crop_output.png" height="246px" width="250px"">
