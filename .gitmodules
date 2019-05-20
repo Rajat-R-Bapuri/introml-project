@@ -1,6 +1,0 @@
-[submodule "fast-style-transfer"]
-	path = fast-style-transfer
-	url = https://github.com/lengstrom/fast-style-transfer
-[submodule "fast-neural-style-keras"]
-	path = fast-neural-style-keras
-	url = https://github.com/misgod/fast-neural-style-keras.git
